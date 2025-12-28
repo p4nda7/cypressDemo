@@ -69,7 +69,7 @@ cypress/
 1. Projekt clonen
 
 ```bash
-git clone git@github.com:p4nda7/demoTest_UI.git
+git clone git@github.com:p4nda7/cypressDemo.git
 ```
 
 2. Navigieren ins Verzeichnis im Terminal
