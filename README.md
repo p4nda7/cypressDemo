@@ -30,7 +30,7 @@ dieses Projekt enthält End-to-End (E2E) Tests für die OPTIMAL SYSTEMS Website 
 
 1. **Repository klonen oder in das Projektverzeichnis wechseln:**
    ```bash
-   cd cypress
+   cd cypressDemo
    ```
 
 2. **Abhängigkeiten installieren:**
